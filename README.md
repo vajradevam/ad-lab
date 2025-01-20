@@ -64,13 +64,12 @@ The lab is designed to foster innovation and practical skills in the field of ma
 *   **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/vajradevam/ad-lab.git](https://github.com/your-repo/app-dev-lab.git)
+    git clone [https://github.com/vajradevam/ad-lab.git](https://github.com/vajradevam/ad-lab.git)
     cd ad-lab
     ```
 
 *   **Explore Tutorials and Projects:**
-    *   Check out the `tutorials/` directory for beginner-friendly guides.
-    *   Dive into the `projects/` directory for hands-on ML applications.
+    *   Dive into the `day{x}/` directory for hands-on ML applications.
 *   **Build and Run Docker Containers:**
     *   Create a `Dockerfile` for your project:
 
