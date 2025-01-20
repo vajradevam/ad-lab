@@ -64,7 +64,7 @@ The lab is designed to foster innovation and practical skills in the field of ma
 *   **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/vajradevam/ad-lab.git](https://github.com/vajradevam/ad-lab.git)
+    git clone https://github.com/vajradevam/ad-lab.git
     cd ad-lab
     ```
 
