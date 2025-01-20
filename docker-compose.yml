@@ -1,0 +1,13 @@
+services:
+  ml-ubuntu:
+    image: ml-ubuntu  
+    ports:
+      - "8888:8888"  
+    volumes:
+      - .:/app
+    command: jupyter notebook --ip=0.0.0.0 --allow-root 
+    environment:
+      - TZ=America/New_York 
+    stdin_open: true  
+    tty: true  
+
