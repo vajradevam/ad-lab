@@ -34,7 +34,11 @@ RUN /root/venv/bin/pip install --upgrade pip && \
     matplotlib \
     jupyterlab \
     notebook \
-    jupyter
+    jupyter \
+    tensorflow \
+    torch \
+    matplotlib \
+    seaborn
 
 ENV VIRTUAL_ENV="/root/venv"
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
