@@ -7,3 +7,6 @@ pandoc
 jupyter
 notebook
 imblearn
+torch
+torchvision
+pillow
